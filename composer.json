@@ -1,0 +1,25 @@
+{
+  "name": "renanvalente/elo-rating",
+  "description": "A PHP implementation of Elo rating system",
+  "version": "0.0.1",
+  "type": "library",
+  "keywords": ["elo", "rating", "ranking"],
+  "homepage": "https://github.com/renanvalente/elo-rating",
+  "time": "2020-007-16",
+  "authors": [
+    {
+      "name": "Renan Valente",
+      "homepage": "https://github.com/renanvalente/",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.32"
+  },
+  "autoload": {
+    "psr-4": {
+      "RenanValente\\Rating\\": "src/Rating"
+    }
+  },
+  "minimum-stability": "stable"
+}
