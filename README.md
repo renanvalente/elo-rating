@@ -130,4 +130,4 @@ Link to Packagist.org: https://packagist.org/packages/renanvalente/elo-rating
 
 # Credits
 
-Developed by <a href="https://github.com/renanvalente/" rel="nofollow">Renan Valente</a> based on the development of <a href="http://michalchovanec.com/" rel="nofollow">Michal Chovanec</a>.
+Developed by <a href="https://github.com/renanvalente/" rel="nofollow">Renan Valente</a> based on the development of <a href="https://github.com/Chovanec/elo-rating" rel="nofollow">Michal Chovanec</a>.
